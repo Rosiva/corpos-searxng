@@ -4,19 +4,19 @@
     "url": "https://ftehcorpos.readingsheep.lol",
     "icon": "https://icons.duckduckgo.com/ip3/ftehcorpos.readingsheep.lol.ico",
     "slug": "fcorpos",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-04-13": 0
+      "2026-04-13": 1
     }
   }
 ]
