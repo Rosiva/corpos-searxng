@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftehcorpos.readingsheep.lol.ico",
     "slug": "fcorpos",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptime": "96.77%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "96.77%",
     "time": 268,
     "timeDay": 397,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-04-15": 38
+      "2026-04-16": 80,
+      "2026-04-15": 42
     }
   }
 ]
